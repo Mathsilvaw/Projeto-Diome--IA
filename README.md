@@ -26,6 +26,6 @@ Os recursos na IA do azure irá faciltar o dia a dia tanto de pessoas como empre
 
 - [GitDOC](https://git-scm.com/book/pt-br/v2)
 
-- [IA da Azure]([azure.microsoft.com](https://portal.vision.cognitive.azure.com/gallery/featured))
+- [IA da Azure](https://portal.vision.cognitive.azure.com/gallery/featured)
 
 **ESPERO QUE GOSTEM E CASO TENHAM ALGUMA DICA OU AJUDA, SERÁ BEM VINDA!**
